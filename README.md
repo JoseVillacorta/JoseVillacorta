@@ -1,8 +1,8 @@
-<h1 align = 'center'> Hi, I'm Jose Villacorta <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1 align = 'center'> Hola, Soy Jose Villacorta <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 <br>
-<div size='20px'> Hi! My name is Jose. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hola! Mi nombre es Jose. Gracias por visitar mi perfil de GitHub. :smile: 
 </div>
 <br>
 <p align="left">
@@ -10,19 +10,19 @@
 <a href = "mailto:villacortafur@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
 </p>
 <br>
-<h2>About Me 😃</h2>
+<h2>Acerca de mí 😃</h2>
 
-- 🔭 Passionate Backend Developer focused on building efficient and scalable solutions.
+- 🔭 Desarrollador Backend apasionado enfocado en construir soluciones eficientes y escalables.
   
-- 💡 Specialized in Java, Spring Boot, Python, Django, Flask, with experience in developing RESTful APIs and database management.
+- 💡 Especializado en Java, Spring Boot, Python, Django, Flask, con experiencia en el desarrollo de APIs RESTful y gestión de bases de datos.
   
-- 🔧 I enjoy optimizing performance, solving complex problems, and continuously learning new technologies to grow in the backend development world.
+- 🔧 Disfruto resolver problemas complejos y aprender continuamente nuevas tecnologías para crecer en el mundo del desarrollo backend.
   
-- 🤝 Teamwork, collaboration, and adaptability are my core values.
+- 🤝 El trabajo en equipo, la colaboración y la adaptabilidad son mis valores fundamentales.
   
-- 🎯 Always seeking new challenges where I can contribute my skills and keep evolving as a developer.
+- 🎯 Siempre en busca de nuevos desafíos donde pueda aportar mis habilidades y seguir evolucionando como desarrollador.
 
-- 📬 Contact: villacortafur@gmail.com
+- 📬 Contacto: villacortafur@gmail.com
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div>
